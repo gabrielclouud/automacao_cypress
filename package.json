@@ -1,0 +1,26 @@
+{
+  "name": "automacao_cypress",
+  "version": "1.0.0",
+  "description": "aprender cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clouud/automacao_cypress.git"
+  },
+  "keywords": [
+    "test",
+    "automation"
+  ],
+  "author": "Clouud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clouud/automacao_cypress/issues"
+  },
+  "homepage": "https://github.com/Clouud/automacao_cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}
